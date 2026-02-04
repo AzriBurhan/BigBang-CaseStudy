@@ -1,4 +1,5 @@
 **Bigbang CaseStudy**
+
 This script generates numbers from 1 to 100 and replaces values based on the following rules:
 
 Multiples of 3 → BIG

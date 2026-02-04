@@ -1,4 +1,4 @@
-BigBang Case Study
+**BigBang Case Study**
 Description
 
 This script generates numbers from 1 to 100 and replaces values based on the following rules:

@@ -7,7 +7,7 @@ Multiples of 3 and 5 → BIGBANG\
 Others → Number as string\
 The results are saved into output.json.
 
-**Instructions**\
+**Instructions**
 1. Open a new terminal\
 Go to the project folder: cd BigBang-CaseStudy\
 2. Run the script: node bigbang.js\
